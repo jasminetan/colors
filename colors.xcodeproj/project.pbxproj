@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E57F679720F828DF009F02B5 /* ColorDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E57F679620F828DF009F02B5 /* ColorDetailViewController.swift */; };
-		E57F679920F829DD009F02B5 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = E57F679820F829DD009F02B5 /* Color.swift */; };
 		E5B1B5B720E841E800F4015A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B1B5B620E841E800F4015A /* AppDelegate.swift */; };
 		E5B1B5BC20E841E800F4015A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E5B1B5BA20E841E800F4015A /* Main.storyboard */; };
 		E5B1B5BE20E841EB00F4015A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E5B1B5BD20E841EB00F4015A /* Assets.xcassets */; };
@@ -17,8 +15,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E57F679620F828DF009F02B5 /* ColorDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorDetailViewController.swift; sourceTree = "<group>"; };
-		E57F679820F829DD009F02B5 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
 		E5B1B5B320E841E800F4015A /* colors.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = colors.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5B1B5B620E841E800F4015A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E5B1B5BB20E841E800F4015A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -64,8 +60,6 @@
 				E5B1B5BF20E841EB00F4015A /* LaunchScreen.storyboard */,
 				E5B1B5C220E841EB00F4015A /* Info.plist */,
 				E5B1B5C820E8432E00F4015A /* ColorsViewController.swift */,
-				E57F679620F828DF009F02B5 /* ColorDetailViewController.swift */,
-				E57F679820F829DD009F02B5 /* Color.swift */,
 			);
 			path = colors;
 			sourceTree = "<group>";
@@ -141,8 +135,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E57F679720F828DF009F02B5 /* ColorDetailViewController.swift in Sources */,
-				E57F679920F829DD009F02B5 /* Color.swift in Sources */,
 				E5B1B5C920E8432E00F4015A /* ColorsViewController.swift in Sources */,
 				E5B1B5B720E841E800F4015A /* AppDelegate.swift in Sources */,
 			);
